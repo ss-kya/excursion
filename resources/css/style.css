@@ -16,7 +16,12 @@ h1 {
     font-size: 50px;
 }
 
+<<<<<<< HEAD
 h2 {
+=======
+.midTitle {
+    font-family: Verdana;
+>>>>>>> dfa085206b293fd76b4f2ffa2182f0df9cb6107e
     font-weight: 300;
     font-size: 42px;
 }
