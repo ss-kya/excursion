@@ -1,6 +1,8 @@
-* {
+body {
     background-color: black;
     text-align: center;
+    font-family: "Verdana", sans-serif;
+    color: white;
 }
 
 .center {
@@ -10,27 +12,21 @@
 }
 
 h1 {
-    font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
-    color: white;
-    text-align: center;
 }
 
-.midHeading {
-    font-family: Verdana;
+h2 {
     font-weight: 300;
     font-size: 42px;
 }
 
-#titleCaption {
-    font-family: Verdana;
+p {
     font-size: 21px;
     color: gray;
 }
 
 footer {
-    font-family: Verdana;
     font-size: 21px;
     text-align: right;
     color: gray;
