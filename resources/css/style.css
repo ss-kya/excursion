@@ -5,10 +5,9 @@ body {
     color: white;
 }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.link {
+    color: aquamarine;
+    font-size: 16px;
 }
 
 h1 {
@@ -16,15 +15,11 @@ h1 {
     font-size: 50px;
 }
 
-<<<<<<< HEAD
 h2 {
-=======
-.midTitle {
-    font-family: Verdana;
->>>>>>> dfa085206b293fd76b4f2ffa2182f0df9cb6107e
     font-weight: 300;
     font-size: 42px;
 }
+
 
 p {
     font-size: 21px;
